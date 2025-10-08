@@ -1,7 +1,7 @@
 
 # Ex. No. 9 – To explore and understand the various prompting techniques used for generating videos through AI models.
 
-**Date:** 
+**Date:** 08-10-2025
 
 **Register No.:** 212223230002
 
